@@ -1,4 +1,4 @@
-package = "lust"
+package = "lua-string-template"
 version = "1.0-1"
 
 source = {
