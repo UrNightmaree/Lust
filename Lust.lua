@@ -1309,7 +1309,7 @@ function gen:gen(model, rulename)
 		rawset(self, "code", code)
 		
 		--printlines(code)
-		local f, err = loadstring(code)
+		local f, err = load(code)
 		if not f then
 			--printlines(code, 1, 100)
 			printlines(code, 1, 500)
