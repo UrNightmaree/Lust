@@ -15,7 +15,7 @@ description = {
 }
 
 dependencies = {
-	"lpeg >= 1.2.0"
+	"lpeg >= 1.0.2"
 }
 
 build = {
