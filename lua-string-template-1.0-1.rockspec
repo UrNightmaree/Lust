@@ -2,7 +2,7 @@ package = "lua-string-template"
 version = "1.0-1"
 
 source = {
-	url = "https://github.com/UrNightmaree/Lust",
+	url = "git://github.com/UrNightmaree/Lust",
 	tag = "v1.0"
 }
 
